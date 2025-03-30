@@ -1,0 +1,70 @@
+#include <iostream>
+#include <string>
+
+using namespace std;
+
+int main() {
+    
+    //Animals Dictionary A-Z
+    //using if else statement
+    
+    string a;
+    
+    cout << "Enter Letter: ";
+    cin >> a;
+    
+    if (a == "A")(
+    cout << "Ant");
+    else if (a == "B")(
+    cout << "Buffalo");
+    else if (a == "C")(
+    cout << "Camel");
+    else if (a == "D")(
+    cout << "Dog");
+    else if (a == "E")(
+    cout << "Elephant");
+    else if (a == "F")(
+    cout << "Fox");
+    else if (a == "G")(
+    cout << "Goat");
+    else if (a == "H")(
+    cout << "Horse");
+    else if (a == "I")(
+    cout << "Iguana");
+    else if (a == "J")(
+    cout << "Jackal");
+    else if (a == "K")(
+    cout << "Koala");
+    else if (a == "L")(
+    cout << "Lion");
+    else if (a == "M")(
+    cout << "Monkey");
+    else if (a == "N")(
+    cout << "Newt");
+    else if (a == "O")(
+    cout << "Owl");
+    else if (a == "P")(
+    cout << "Pig");
+    else if (a == "Q")(
+    cout << "Quokka");
+    else if (a == "R")(
+    cout << "Rabbit");
+    else if (a == "S")(
+    cout << "Seal");
+    else if (a == "T")(
+    cout<< "Tiger");
+    else if (a == "U")(
+    cout << "Urchin");
+    else if (a == "V")(
+    cout << "Vole");
+    else if (a == "W")(
+    cout << "Whale");
+    else if (a == "X")(
+    cout << "Xenomorph");
+    else if (a == "Y")(
+    cout << "Yak");
+    else if (a == "Z")(
+    cout << "Zebra");
+
+    return 0;
+}
